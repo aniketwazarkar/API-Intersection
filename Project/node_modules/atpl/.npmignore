@@ -1,0 +1,15 @@
+/node_modules
+*.suo
+*.user
+*.dll
+*.pdb
+*.ts
+*.csproj
+*.sln
+*.bat
+makefile
+.travis.yml
+/obj
+test
+benchmarks
+
